@@ -1,0 +1,18 @@
+<section class="lista-cardapio">
+
+    <div *ngFor="let pizza of pizzas">
+
+        <div class="card" style="width: 10rem;">
+            <img src="assets\img\pizzas\{{pizza.foto}}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Id: {{pizza.id}}</h5>
+              <h5 class="card-title">Pizza {{pizza.nome}}</h5>
+              <p class="card-text">Ingredientes: {{pizza.descricao}}</p>
+              <p class="card-text">Preço: R$ {{pizza.preco}},00</p>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+

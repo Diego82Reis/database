@@ -1,0 +1,53 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "nome": "Mussarela",
+      "foto": "foto1.jpg",
+      "descricao": "Molho e Mussarela",
+      "preco": 30
+    },
+    {
+      "id": 2,
+      "nome": "Portuguesa",
+      "foto": "foto2.jpg",
+      "descricao": "Molho e Tomate",
+      "preco": 30
+    },
+    {
+      "id": 3,
+      "nome": "Frango",
+      "foto": "foto3.jpg",
+      "descricao": "Molho e frango",
+      "preco": 30
+    },
+    {
+      "id": "4",
+      "nome": "Calabresa",
+      "foto": "foto4.jpg",
+      "descricao": "Molho e Calabresa",
+      "preco": 30
+    },
+    {
+      "id": "5",
+      "nome": "4 Queijos",
+      "foto": "foto5.jpg",
+      "descricao": "Molho e 4 queijos",
+      "preco": "30"
+    },
+    {
+      "id": "6",
+      "nome": "Marguerita",
+      "foto": "foto6.jpg",
+      "descricao": "Molho e Marguerita",
+      "preco": "30"
+    },
+    {
+      "id": "7",
+      "nome": "Brigadeiro",
+      "foto": "foto7.jpg",
+      "descricao": "Brigadeiro",
+      "preco": "45"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.lista-cardapio{
+    display: flex;
+    flex-direction: row;
+}
+.lista-cardapio .card{
+    margin: 5px 10px;
+    min-height: 100px;   
+}
+h5 {
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+p {
+    font-size: 0.6rem;
+    white-space: nowrap;
+}
